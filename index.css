@@ -1,0 +1,58 @@
+body {
+    background-image: url('Ghost.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.Schoolbackground {
+    background-image: url('schoolbg.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.background3{
+    background-image: url('background3.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+a {
+    background: -webkit-linear-gradient(100deg, rgb(45, 8, 131), rgb(199, 70, 11));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: none;
+   
+}
+.logofatima{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 30px;
+    left: 1450px;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul {
+    list-style-type: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.img {
+    height: 450px;
+    width: 320px;
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    border-radius: 50%;
+}
+.Homepagefont {
+    font-size: 35px;
+    background: -webkit-linear-gradient(150deg, rgb(212, 107, 37), rgb(192, 16, 163));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 20px;
+}
